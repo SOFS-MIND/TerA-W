@@ -1,2 +1,0 @@
-# TerA-W
-Team Terasvin
